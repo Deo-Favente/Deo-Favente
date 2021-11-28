@@ -1,6 +1,14 @@
-<h1 align="center">👨‍💻 Mes statistiques</h1><br>
-<p align="left">
+<div align="center">
+<img width="100%" height = "100%" src="https://i.imgur.com/APRhMQp.jpg" alt="cover" />
+</div>
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deo-favente&show_icons=true&locale=en&layout=compact" alt="deo-favente" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deo-favente&show_icons=true&locale=en" alt="deo-favente" /></p>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Metrics](https://metrics.lecoq.io/Deo-Favente?template=classic&config.timezone=America%2FToronto)
+
+
+
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
