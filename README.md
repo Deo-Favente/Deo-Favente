@@ -4,8 +4,9 @@
    
 </div>
 <div align="center">
-    <h2> Mes statistiques 📊</h2>
-    <img height="300px" src="https://metrics.lecoq.io/Deo-Favente?template=classic&config.timezone=America%2FToronto" />
+    <h2> Mes statistiques 📊<br><br>
+    <img height="300px" src="https://metrics.lecoq.io/Deo-Favente?template=classic&config.timezone=America%2FToronto" /></h2>
+    
 </div>
 
 
