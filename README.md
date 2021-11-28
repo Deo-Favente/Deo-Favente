@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <h2> 📊 Mes statistiques <br><br>
-    <img height="300px" src="https://metrics.lecoq.io/Deo-Favente?template=classic&config.timezone=America%2FToronto" /></h2>
+    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deo-Favente&theme=github_dark)
     
 </div>
 
