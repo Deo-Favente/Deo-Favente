@@ -4,7 +4,6 @@
    
 </div>
 <div align="center">
-    <a href="https://github.com/billythegoat356">
     <h2> Mes statistiques 📊 <img height="300px" src="https://metrics.lecoq.io/Deo-Favente?template=classic&config.timezone=America%2FToronto"/></h2>
     
     </a>
