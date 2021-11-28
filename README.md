@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <h2> 📊 Mes statistiques <br><br>
-    ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deo-Favente&theme=github_dark)
+    <img width="100%" height = "100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deo-Favente&theme=github_dark)"/>
     
 </div>
 
