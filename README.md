@@ -6,7 +6,7 @@
 <div align="center">
     <h2> 📊 Mes statistiques <br><br>
     <img width="100%" height = "100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deo-Favente&theme=github_dark"/>
-    <div align="center">
+    <div align="center" display="flex">
         <img width="50%" height = "50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deo-Favente&theme=github_dark"/>
         <img width="50%" height = "50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deo-Favente&theme=github_dark"/>
     </div>
