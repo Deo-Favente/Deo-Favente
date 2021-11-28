@@ -5,7 +5,6 @@
     <h2> Mes statistiques 📊 </h2>
     <a href="https://github.com/billythegoat356">
       <img height="180em" src="https://metrics.lecoq.io/Deo-Favente?template=classic&config.timezone=America%2FToronto"/>
-        ![Metrics]()
     </a>
 </div>
 
