@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://github.com/billythegoat356">
   <h2> Mes statistiques 📊 </h2>
-
   ![Metrics](https://metrics.lecoq.io/Deo-Favente?template=classic&config.timezone=America%2FToronto)
 </a>
 
