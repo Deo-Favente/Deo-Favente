@@ -10,7 +10,7 @@
         
 [![](https://raw.githubusercontent.com/Deo-Favente/Deo-Favente/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](#)
 [![](https://raw.githubusercontent.com/Deo-Favente/Deo-Favente/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](#)
-[![](https://raw.githubusercontent.com/Deo-Favente/Deo-Favente/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](#)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deo-favente&theme=discord_old_blurple)](#)
 [![](https://raw.githubusercontent.com/Deo-Favente/Deo-Favente/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)](#)
 [![](https://raw.githubusercontent.com/Deo-Favente/Deo-Favente/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](#)
 
