@@ -1,6 +1,6 @@
 <div align="center">
     <h1> 📌 Deo_Favente<br><br>
-       <img width="100%" height = "100%" src="https://www.critique-film.fr/wp-content/uploads/2015/09/bettercallsaul-Banni%C3%A8re.jpg" alt="cover" /></h1>
+       <img width="100%" height = "100%" src="https://github.com/Deo-Favente/Deo-Favente/blob/main/Images/bettercallsaul-Banni%C3%A8re.jpg?raw=true" alt="cover" /></h1>
    
 </div>
 <!--- BLOG-POST-LIST-START --->
