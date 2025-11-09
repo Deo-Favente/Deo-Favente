@@ -11,7 +11,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
 - Mon site portofolio : [deo-favente.fr](https://deo-favente.fr)
 
 ### 💻 Projets scolaires
-- Sur demande, change selon les semestres.
+- Démonstration sur demande, change selon les semestres.
 
 ## 🔧 Mes compétences techniques incluent...
 <table>
