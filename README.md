@@ -5,7 +5,6 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
 ## 💻 Je travaille actuellement sur ...
 
 ## 🔧 Mes compétences techniques incluent..
-## 🔧 Mes compétences techniques incluent..
 <table>
 <tr>
   <td align="center" width="96">
