@@ -92,4 +92,4 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
 
 ## 📨 Comment me contacter
 - Mail : [Cliquer ici](mailto:deofavente.dev@gmail.com)
-- LinkedIn : [Mon profil](https://www.linkedin.com/in/enzo-de-oliveira-favente/)
+- LinkedIn : [Mon profil]()
