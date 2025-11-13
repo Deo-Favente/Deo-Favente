@@ -89,6 +89,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
 </table>
 
 ## 💪 J'ai contribué pour des projets Open Source comme ...
+*(Mise à jour de cette section à suivre)* 
 
 ## 📨 Comment me contacter
 - Mail : [Cliquer ici](mailto:deofavente.dev@gmail.com)
