@@ -8,7 +8,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
 
 ### 📚 Projets personnels
 - Mon système de producitivité personnel (en Vue.js / TailwindCSS) : [ProductivitySystem (Repo)](https://github.com/Deo-Favente/ProductivitySystem)
-- Mon site portofolio (Vanilla Javascript / Boostrap)  : [DF-Website (Repo)](https://github.com/Deo-Favente/DF-Website)
+- Mon site portofolio (Javascript Pur / Boostrap)  : [DF-Website (Repo)](https://github.com/Deo-Favente/DF-Website)
 
 ### 💻 Projets scolaires
 - Démonstration sur demande, change selon les semestres.
