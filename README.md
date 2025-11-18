@@ -7,8 +7,8 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
 [TheFlowRush](https://theflowrush.com) est une boutique en ligne de vêtements de seconde-main. J'en suis un des fondateurs et je réalise une bonne partie du sourcing, des annonces et des expéditions des commandes. Je développe aussi le site web de la boutique et divers outils internes pour faciliter la gestion de l'inventaire et des ventes.
 
 ### 📚 Projets personnels
-- Mon système de producitivité personnel : [ProductivitySystem](https://github.com/Deo-Favente/ProductivitySystem)
-- Mon site portofolio : [deo-favente.fr](https://deo-favente.fr)
+- Mon système de producitivité personnel : [ProductivitySystem (Repo)](https://github.com/Deo-Favente/ProductivitySystem)
+- Mon site portofolio : [DF-Website (Repo)](https://github.com/Deo-Favente/DF-Website)
 
 ### 💻 Projets scolaires
 - Démonstration sur demande, change selon les semestres.
