@@ -24,7 +24,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
     <a href="#mes-compétences-techniques-incluent"><img src="images/nodejs_logo.png" alt="Node.js"/></a><br>Node.js
   </td>
   <td align="center" valign="bottom" width="96">
-    <a href="#mes-compétences-techniques-incluent"><img src="images/vuejs_logo.png" alt="Vue.js"/></a><br>Vue.js
+    <a href="#mes-compétences-techniques-incluent"><img src="images/angular_logo.png" alt="Angular"/></a><br>Angular
   </td>
   <td align="center" valign="bottom" width="96">
     <a href="#mes-compétences-techniques-incluent"><img src="images/tailwind_logo.png" alt="Tailwind CSS"/></a><br>Tailwind CSS
