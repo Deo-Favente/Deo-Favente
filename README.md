@@ -1,14 +1,15 @@
 # 👋 Bonjour ! 
 ## 💖 Bienvenue sur ma page
-Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'université Grenoble Alpes. J'adore transformer mes idées en vrai projet à valeur. Je suis un peu touche à tout, mais je préfère particulièrement travailer sur des interfaces Front End intuivites avec des technologies comme Vue.js, Tailwind CSS ou Java Swing. 
+Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'université Grenoble Alpes. J'adore transformer mes idées en vrai projet à valeur. Je suis un peu touche à tout, mais je préfère particulièrement travailer sur des interfaces Front End intuivites avec des technologies comme Angular, TailwindCSS ou Java Swing. 
 
 ## 💻 Je travaille actuellement sur ...
 ### 🏜️ TheFlowRush
 [TheFlowRush](https://theflowrush.com) est une boutique en ligne de vêtements de seconde-main. J'en suis un des fondateurs et je réalise une bonne partie du sourcing, des annonces et des expéditions des commandes. Je développe aussi le site web de la boutique et divers outils internes pour faciliter la gestion de l'inventaire et des ventes.
 
-### 📚 Projets personnels
-- Mon système de producitivité personnel (en Vue.js / TailwindCSS) : [ProductivitySystem (Repo)](https://github.com/Deo-Favente/ProductivitySystem)
+### 📚 Projets personnels Open Source
+- StoreKit, un outil de gestion d'inventaire (utilisé en interne chez TheFlowRush, Angular / TailwindCSS)  : [StoreKit (Repo)](https://github.com/Deo-Favente/StoreKit)
 - Mon site portofolio (Javascript Pur / Boostrap)  : [DF-Website (Repo)](https://github.com/Deo-Favente/DF-Website)
+- Mon système de producitivité personnel (en Vue.js / TailwindCSS) : [ProductivitySystem (Repo)](https://github.com/Deo-Favente/ProductivitySystem)
 
 ### 💻 Projets scolaires
 - Démonstration sur demande, change selon les semestres.
