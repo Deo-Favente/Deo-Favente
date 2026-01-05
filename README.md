@@ -48,7 +48,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
     <a href="#mes-compétences-techniques-incluent"><img src="images/swing_logo.png" alt="Swing"/></a><br>Swing
   </td>
   <td align="center" valign="bottom" width="96">
-    <a href="#mes-compétences-techniques-incluent"><img src="images/springboot_logo.png" alt="Spring"/></a><br>SpringBoot
+    <a href="#mes-compétences-techniques-incluent"><img src="images/springboot_logo.png" alt="SpringBoot"/></a><br>SpringBoot
   </td>
   <td align="center" valign="bottom" width="96">
     <a href="#mes-compétences-techniques-incluent"><img src="images/hibernate_logo.png" alt="Hibernate JPA"/></a><br>Hibernate JPA
@@ -57,7 +57,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
     <a href="#mes-compétences-techniques-incluent"><img src="images/python_logo.png" alt="Python"/></a><br>Python
   </td>
   <td align="center" valign="bottom" width="96">
-    <a href="#mes-compétences-techniques-incluent"><img src="images/vue_logo.png" alt="Flask"/></a><br>Vue.js
+    <a href="#mes-compétences-techniques-incluent"><img src="images/vue_logo.png" alt="Vue.js"/></a><br>Vue.js
   </td>
   <td align="center" valign="bottom" width="96">
     <a href="#mes-compétences-techniques-incluent"><img src="images/sqlite_logo.png" alt="SQLite"/></a><br>SQLite
