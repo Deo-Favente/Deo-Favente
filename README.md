@@ -57,7 +57,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
     <a href="#mes-compétences-techniques-incluent"><img src="images/python_logo.png" alt="Python"/></a><br>Python
   </td>
   <td align="center" valign="bottom" width="96">
-    <a href="#mes-compétences-techniques-incluent"><img src="images/vue_logo.png" alt="Vue.js"/></a><br>Vue.js
+    <a href="#mes-compétences-techniques-incluent"><img src="images/vuejs_logo.png" alt="Vue.js"/></a><br>Vue.js
   </td>
   <td align="center" valign="bottom" width="96">
     <a href="#mes-compétences-techniques-incluent"><img src="images/sqlite_logo.png" alt="SQLite"/></a><br>SQLite
