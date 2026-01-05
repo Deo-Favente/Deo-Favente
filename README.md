@@ -80,7 +80,7 @@ Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'
   <td align="center" valign="bottom" width="96">
     <a href="#mes-compétences-techniques-incluent"><img src="images/gitlab_logo.png" alt="GitLab"/></a><br>GitLab
   </td>
-  <td align="center" valign="bottom" height="96">
+  <td align="center" valign="bottom" width="96" height="96">
     <a href="#mes-compétences-techniques-incluent"><img src="images/figma_logo.png" alt="Figma"/></a><br>Figma
   </td>
   <td align="center" valign="bottom" width="96">
