@@ -1,6 +1,6 @@
 # 👋 Bonjour ! 
 ## 💖 Bienvenue sur ma page
-Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'université Grenoble Alpes. J'adore transformer mes idées en vrai projet à valeur. Je suis un peu touche à tout, mais je préfère particulièrement travailer sur des interfaces Front End intuivites avec des technologies comme Angular, TailwindCSS ou Java Swing. Je suis également en plein aprentissage des les bonnes pratiques DevOps et j'essaye de les appliquer dans mes projets.
+Je suis Enzo, un étudiant français actuellement en Master 1 Informatique à l'université Grenoble Alpes. J'adore transformer mes idées en vrai projet à valeur. Je suis un peu touche à tout, mais je préfère particulièrement travailer sur des interfaces Front End intuivites avec des technologies comme Angular, TailwindCSS ou Java Swing. Je suis également en plein aprentissage des bonnes pratiques DevOps et j'essaye de les appliquer dans mes projets.
 
 ## 💻 Je travaille actuellement sur ...
 ### 🏜️ TheFlowRush
